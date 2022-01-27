@@ -26,8 +26,8 @@
   </entry>
   <entry>
     <title>Anconda常用命令</title>
-    <url>/2022/01/28/Anconda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
-    <content><![CDATA[<h2 id="一、Anconda常规用法"><a href="#一、Anconda常规用法" class="headerlink" title="一、Anconda常规用法"></a>一、Anconda常规用法</h2><h3 id="所有提示命令"><a href="#所有提示命令" class="headerlink" title="所有提示命令"></a>所有提示命令</h3><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">usage:  conda [-h] [-V] command ...</span><br><span class="line">clean    #移除不用的包和缓存文件</span><br><span class="line">config    #修改.condarc文件中的配置值，这里的.condarc文件类似于.vimrc或者.bashrc，用于配置conda的设置。模仿了git的配置命令，默认将配置写入到HOME文件夹下的.condarc文件中</span><br><span class="line">create    #从一系列特定的包创建一个新的conda环境</span><br><span class="line">help    #conda help文件</span><br><span class="line">info    #显示当前conda的信息，包括路径，channels等</span><br><span class="line">init    #初始化conda和shell的交互，实验性功能</span><br><span class="line">install    #在特定的环境安装一系列包</span><br><span class="line">list    #列出在一个conda环境中被linked(被关联)的包</span><br><span class="line">package    #低等级的conda软件包实用程序？(实验性功能)不晓得有什么用</span><br><span class="line">remove    #从一个特定的conda环境中移除一系列包</span><br><span class="line">uninstall    #remove命令的别名</span><br><span class="line">run    #在conda环境中跑一个可执行程序(实验性功能)</span><br><span class="line">search    #找寻包并显示相关的信息。输入是MatchSpec，一种结构化查询语言。理解为一种约定的查询方式？</span><br><span class="line">update    #把conda包更新到最新的兼容版本</span><br><span class="line">upgrade    #update命令的别名</span><br></pre></td></tr></table></figure>
+    <url>/2022/01/28/Anaconda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
+    <content><![CDATA[<h2 id="一、Anaconda常规用法"><a href="#一、Anaconda常规用法" class="headerlink" title="一、Anaconda常规用法"></a>一、Anaconda常规用法</h2><h3 id="所有提示命令"><a href="#所有提示命令" class="headerlink" title="所有提示命令"></a>所有提示命令</h3><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">usage:  conda [-h] [-V] command ...</span><br><span class="line">clean    #移除不用的包和缓存文件</span><br><span class="line">config    #修改.condarc文件中的配置值，这里的.condarc文件类似于.vimrc或者.bashrc，用于配置conda的设置。模仿了git的配置命令，默认将配置写入到HOME文件夹下的.condarc文件中</span><br><span class="line">create    #从一系列特定的包创建一个新的conda环境</span><br><span class="line">help    #conda help文件</span><br><span class="line">info    #显示当前conda的信息，包括路径，channels等</span><br><span class="line">init    #初始化conda和shell的交互，实验性功能</span><br><span class="line">install    #在特定的环境安装一系列包</span><br><span class="line">list    #列出在一个conda环境中被linked(被关联)的包</span><br><span class="line">package    #低等级的conda软件包实用程序？(实验性功能)不晓得有什么用</span><br><span class="line">remove    #从一个特定的conda环境中移除一系列包</span><br><span class="line">uninstall    #remove命令的别名</span><br><span class="line">run    #在conda环境中跑一个可执行程序(实验性功能)</span><br><span class="line">search    #找寻包并显示相关的信息。输入是MatchSpec，一种结构化查询语言。理解为一种约定的查询方式？</span><br><span class="line">update    #把conda包更新到最新的兼容版本</span><br><span class="line">upgrade    #update命令的别名</span><br></pre></td></tr></table></figure>
 
 
 
@@ -98,7 +98,7 @@
 <p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="C:\Users\watre\Desktop\指令集\Anconda常用命令.assets\image-20211226151528147.png"
+                     data-src="%5CAnaconda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.assets%5Cimage-20211226151528147.png"
                       alt="image-20211226151528147"
                 ></p>
 <ol start="2">
@@ -109,13 +109,13 @@
 <p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="C:\Users\watre\Desktop\指令集\Anconda常用命令.assets\image-20211226152306273.png"
+                     data-src="%5CAnaconda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.assets%5Cimage-20211226152306273.png"
                       alt="image-20211226152306273"
                 ></p>
 <p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="C:\Users\watre\Desktop\指令集\Anconda常用命令.assets\image-20211226152506309.png"
+                     data-src="%5CAnaconda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.assets%5Cimage-20211226152506309.png"
                       alt="image-20211226152506309"
                 ></p>
 <h3 id="4-2-卸载"><a href="#4-2-卸载" class="headerlink" title="4.2 卸载"></a>4.2 卸载</h3><ol>
