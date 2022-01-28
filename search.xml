@@ -72,7 +72,8 @@
 </ol>
 <figure class="highlight shell"><table><tr><td class="code"><pre><code class="hljs shell">bash Anaconda3-5.2.0-Linux-x86_64.sh<br></code></pre></td></tr></table></figure>
 
-<p><img src="%5CAnaconda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.assets%5Cimage-20211226152306273.png" alt="image-20211226152306273"></p>
+<p><img src="%5Cimg%5CAnaconda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.assets%5Cimage-20211226152306273.png" alt="image-20211226152306273"></p>
+<p><img src="%5Cimg%5Cdefault1.png" alt="image-20211226152306273"></p>
 <p><img src="%5CAnaconda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.assets%5Cimage-20211226152506309.png" alt="image-20211226152506309"></p>
 <h3 id="4-2-卸载"><a href="#4-2-卸载" class="headerlink" title="4.2 卸载"></a>4.2 卸载</h3><ol>
 <li>删除Anaconda3文件夹<figure class="highlight shell"><table><tr><td class="code"><pre><code class="hljs shell">rm -rf ~/anaconda3<br></code></pre></td></tr></table></figure></li>
