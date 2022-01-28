@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/01/17/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>Hexo</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Anaconda常用命令</title>
     <url>/2022/01/28/Anaconda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
     <content><![CDATA[<h2 id="一、Anaconda常规用法"><a href="#一、Anaconda常规用法" class="headerlink" title="一、Anaconda常规用法"></a>一、Anaconda常规用法</h2><h3 id="所有提示命令"><a href="#所有提示命令" class="headerlink" title="所有提示命令"></a>所有提示命令</h3><figure class="highlight shell"><table><tr><td class="code"><pre><code class="hljs shell">usage:  conda [-h] [-V] command ...<br>clean    #移除不用的包和缓存文件<br>config    #修改.condarc文件中的配置值，这里的.condarc文件类似于.vimrc或者.bashrc，用于配置conda的设置。模仿了git的配置命令，默认将配置写入到HOME文件夹下的.condarc文件中<br>create    #从一系列特定的包创建一个新的conda环境<br>help    #conda help文件<br>info    #显示当前conda的信息，包括路径，channels等<br>init    #初始化conda和shell的交互，实验性功能<br>install    #在特定的环境安装一系列包<br>list    #列出在一个conda环境中被linked(被关联)的包<br>package    #低等级的conda软件包实用程序？(实验性功能)不晓得有什么用<br>remove    #从一个特定的conda环境中移除一系列包<br>uninstall    #remove命令的别名<br>run    #在conda环境中跑一个可执行程序(实验性功能)<br>search    #找寻包并显示相关的信息。输入是MatchSpec，一种结构化查询语言。理解为一种约定的查询方式？<br>update    #把conda包更新到最新的兼容版本<br>upgrade    #update命令的别名<br></code></pre></td></tr></table></figure>
@@ -112,6 +88,30 @@
       </categories>
       <tags>
         <tag>Anaconda</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/01/17/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
       </tags>
   </entry>
 </search>
